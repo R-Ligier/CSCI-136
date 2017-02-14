@@ -1,1 +1,1 @@
-# CSCI-136-
+# This is a git repo for CSCI 136
